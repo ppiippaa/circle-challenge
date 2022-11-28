@@ -1,0 +1,13 @@
+button {
+    background-color: blueviolet;
+    padding: 8px;
+    margin: 1rem;
+    border-radius: 5%;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+button:hover {
+    cursor: pointer;
+    background-color: darkorchid;
+}
